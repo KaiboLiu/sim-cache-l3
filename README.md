@@ -14,6 +14,7 @@ similar to the following command.
 `./sim-cache -config cache_3a.cfg -redir:sim cache_3a.out ./test-math`
 
 
+
 #### Hints:
 **some related functions in sim-cache.c:**  
 > sim_reg_options(struct opt_odb_t \*odb): /\* register simulator-specific options\*/  
